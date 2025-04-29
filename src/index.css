@@ -1,0 +1,15 @@
+/* Estilos globais */
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif; /* Aplica Montserrat em toda a página */
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: white;
+}
+
+@import "tailwindcss";
