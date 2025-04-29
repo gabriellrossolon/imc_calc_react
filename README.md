@@ -1,12 +1,19 @@
-# React + Vite
+# 🧮 Calculadora de IMC
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma calculadora de **Índice de Massa Corporal (IMC)** desenvolvida com **ReactJS**, utilizando **Vite** para o build e **TailwindCSS** para a estilização. Simples, responsiva e direta ao ponto.
 
-Currently, two official plugins are available:
+## ✨ Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ ReactJS
+- ⚡ Vite
+- 🎨 TailwindCSS
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![screencapture-imc-calc-react-vercel-app-2025-04-29-10_21_24](https://github.com/user-attachments/assets/57dee24f-b21b-4cb4-9f44-c2506789b76f)
+![screencapture-imc-calc-react-vercel-app-2025-04-29-10_21_54](https://github.com/user-attachments/assets/3babb109-fff3-4d64-801a-0bf4e5fd7fb9)
+
+## 🚀 Como usar
+
+Acesse a calculadora online clicando no link abaixo:
+https://imc-calc-react.vercel.app
